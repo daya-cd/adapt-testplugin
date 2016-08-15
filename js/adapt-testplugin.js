@@ -6,12 +6,12 @@ define(["coreViews/componentView", "coreJS/adapt"], function(ComponentView, Adap
 		preRender: function() {
 		
             alert("test");
-        },
+        }
 
 
 
     });
-    // Adapt.register('testplugin', Testplugin);
+    Adapt.register('testplugin', Testplugin);
 
     return Testplugin;
 
