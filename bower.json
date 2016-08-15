@@ -1,14 +1,15 @@
 {
-  "name": "adapt-testplugin",
-  "authors": [
-    "daya-cd"
-  ],
-  "description": "To create my first plugin",
-  "main": "/js/adapt-testplugin.js",
-  "keywords": [
-    "adapt-test"
-  ],
-  "license": "MIT",
-  "homepage": "",
-  "private": true
+    "name": "adapt-testplugin",
+    "repository": "git://github.com/daya-cd/adapt-testplugin.git",
+    "framework": "~2.0.0",
+    "authors": [
+        "daya-cd"
+    ],
+    "description": "To create my first plugin",
+    "main": "/js/adapt-testplugin.js",
+    "keywords": [
+        "adapt-test"
+    ],
+    "license": "GPLv3",
+    "private": "false"
 }
