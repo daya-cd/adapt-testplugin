@@ -1,0 +1,14 @@
+{
+  "name": "adapt-testplugin",
+  "authors": [
+    "daya-cd"
+  ],
+  "description": "To create my first plugin",
+  "main": "/js/adapt-testplugin.js",
+  "keywords": [
+    "adapt-test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
